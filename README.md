@@ -1,9 +1,9 @@
 # PetroStack Casanare — Gestión de eventos de inspección en pozos petroleros
 
-**Autor:** [Tu nombre completo]  
-**Código de estudiante:** [Tu código]  
+**Autor:** [Samuel Pariatanta] 
+**Código de estudiante:** [1117132628]  
 **Asignatura:** Algoritmos II  
-**Fecha:** Junio 2024  
+**Fecha:** Junio 2026  
 **Uniremington — Sede Yopal, Casanare**
 
 ---
